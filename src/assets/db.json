@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "title": "First Post",
+      "body": "This is the body of the first post.",
+      "userId": 23,
+      "id": "1"
+    },
+    {
+      "title": "Second Post",
+      "body": "This is the body of the second post.",
+      "userId": 24,
+      "id": "2"
+    },
+    {
+      "id": "80.67030082552473",
+      "title": "Third post",
+      "body": "dfefefedf",
+      "userId": 580.3951898546313
+    },
+    {
+      "id": "1.774568210031578",
+      "title": "sdf",
+      "body": "dsfsd",
+      "userId": 1.52428280429902
+    },
+    {
+      "id": "55",
+      "title": "gfjhfg",
+      "body": "fghfg",
+      "userId": 94
+    },
+    {
+      "id": "49",
+      "title": "hjijh",
+      "body": "ijoi",
+      "userId": 93
+    },
+    {
+      "id": "85",
+      "title": "hujguj",
+      "body": "ihk",
+      "userId": 57
+    },
+    {
+      "id": "52",
+      "title": "hjijh",
+      "body": "ijoi",
+      "userId": 36
+    },
+    {
+      "id": 23,
+      "title": "hjhjh",
+      "body": "dswdw",
+      "userId": 64
+    },
+    {
+      "id": 71,
+      "title": "dsc",
+      "body": "csdc",
+      "userId": 96
+    }
+  ]
+}
